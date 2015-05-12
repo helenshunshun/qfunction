@@ -1,0 +1,10 @@
+Package: qfunction
+Type: Package
+Title: qfunction
+Version: 1.0
+Date: 2015-05-11
+Author: Yuting Zhang<yuting_zhang@brown.edu>
+Maintainer: Yuting Zhang<yuting_zhang@brown.edu>
+Description: It's used to calculate V2 and V1 value and return the optimal treatment choice.
+License: Biostat,Brown University
+Packaged: 2015-05-12 00:06:27 UTC; zhangyuting
